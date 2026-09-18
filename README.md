@@ -54,6 +54,12 @@ Site institucional desenvolvido para uma pousada na região do Broa, com foco em
 
 - 🔗 [Acessar site](https://pousadaloboguarabroa.com.br)
 
+#### ⭐ Depoimento da cliente
+
+> “O site da Pousada Lobo Guará ficou perfeito e exatamente como imaginávamos. O atendimento foi ótimo, com muito profissionalismo e compromisso durante todo o desenvolvimento. O resultado atendeu às nossas expectativas e indicamos o trabalho da FL Conecta Digital sem dúvidas!”
+
+**Avaliação: 10/10**
+
 ---
 
 ### 💼 FL Conecta Digital
