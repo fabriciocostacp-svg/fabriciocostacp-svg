@@ -53,6 +53,8 @@ Versão base do sistema de gestão para lavanderia, criada para digitalizar cont
 Site institucional desenvolvido para uma pousada na região do Broa, com foco em apresentação profissional, SEO, galeria, localização e contato direto via WhatsApp.
 
 - 🔗 [Acessar site](https://pousadaloboguarabroa.com.br)
+- 🐙 [Ver código no GitHub](https://github.com/fabriciocostacp-svg/pousada-lobo-guara)
+- 🛠️ HTML, CSS, JavaScript, Google Maps e SEO
 
 #### ⭐ Depoimento da cliente
 
