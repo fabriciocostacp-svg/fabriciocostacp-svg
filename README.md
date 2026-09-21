@@ -68,6 +68,8 @@ Site institucional desenvolvido para uma pousada na região do Broa, com foco em
 Projeto pelo qual desenvolvo sites, sistemas e soluções digitais personalizadas para empresas e profissionais.
 
 - 🔗 [Acessar site](https://flconectadigital.com.br)
+- 🐙 [Ver código no GitHub](https://github.com/fabriciocostacp-svg/fl-conecta-digital)
+- 🛠️ HTML, CSS, JavaScript, LocalStorage e integração com WhatsApp
 
 ---
 
