@@ -69,7 +69,7 @@ Projeto pelo qual desenvolvo sites, sistemas e soluções digitais personalizada
 
 - 🔗 [Acessar site](https://flconectadigital.com.br)
 - 🐙 [Ver código no GitHub](https://github.com/fabriciocostacp-svg/fl-conecta-digital)
-- 🛠️ HTML, CSS, JavaScript, LocalStorage e integração com WhatsApp
+- 🛠️ HTML, CSS, JavaScript, SEO local e integração com WhatsApp
 
 ---
 
@@ -106,6 +106,8 @@ Nos meus projetos já trabalhei com:
 Busco oportunidades como **Desenvolvedor Web Júnior**, **Desenvolvedor de Sistemas Júnior** ou **Estagiário em Desenvolvimento**, onde eu possa contribuir com projetos reais enquanto continuo evoluindo tecnicamente.
 
 Tenho interesse especial em oportunidades envolvendo desenvolvimento web, sistemas internos, automações e integrações.
+
+💡 **Também atendo projetos freelance:** sites, landing pages, sistemas sob medida e automações com n8n. Fale comigo pelo [site da FL Conecta Digital](https://flconectadigital.com.br).
 
 ---
 
