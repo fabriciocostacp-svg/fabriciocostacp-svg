@@ -64,6 +64,14 @@ Site institucional desenvolvido para uma pousada na região do Broa, com foco em
 
 ---
 
+### ⚙️ Automações com n8n
+Modelos de automação para pequenos negócios. O primeiro recebe o contato do formulário do site, salva numa planilha do Google e avisa o dono do negócio no WhatsApp na mesma hora.
+
+- 🐙 [Ver automações no GitHub](https://github.com/fabriciocostacp-svg/n8n-automacoes)
+- 🛠️ n8n, Webhooks, Google Sheets API e WhatsApp API
+
+---
+
 ### 💼 FL Conecta Digital
 Projeto pelo qual desenvolvo sites, sistemas e soluções digitais personalizadas para empresas e profissionais.
 
